@@ -4,9 +4,9 @@ A simple Python Key-logger that sends the log file through email after specified
 ## Requirements
 1.  pynput  ```pip install pynput```
 2.  logging ```pip install logging```
-3.  smtplib ```pip install logging```
-4.  time    ```pip install logging```
-5.  email   ```pip install logging```
+3.  smtplib ```pip install smtplib```
+4.  time    ```pip install time```
+5.  email   ```pip install email```
 
 ## Usage
 The sciprt is written in python and saved in pyw form. 
