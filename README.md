@@ -34,5 +34,8 @@ email_send = 'receiver_email'
 ## EXE file creation
 To create a .exe file you need to use the pyinstaller module 
 ```pip install pyinstaller```
+
 To use pyinstaller
 ```pyinstaller -w -F key.pyw```
+# To stop the Script
+Open Task manager and search for key.pyw or key.exe(if you are running a exe file) and ```click ENDTASK```
