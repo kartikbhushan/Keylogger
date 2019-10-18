@@ -31,8 +31,9 @@ email_user = 'from'
 email_password = 'less_secure password'//You need to create a less secure password for apps using google 
 email_send = 'receiver_email'
 ```
-##EXE file creation##
+##EXE file creation
 To create a .exe file you need to use the pyinstaller module 
+
 ```pip install pyinstaller
 ```
 To use pyinstaller
