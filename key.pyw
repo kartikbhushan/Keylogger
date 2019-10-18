@@ -11,9 +11,9 @@ from os import path
 
 
 #the email credentials 
-email_user = 'kb.mg.sg@gmail.com'
-email_password = 'asljstudvgezwbzy'
-email_send = 'kb.mg.sg@gmail.com'
+email_user = 'Sender_email'
+email_password = 'Less secure password'
+email_send = 'Receivers_email'
 
 
 def send_email():
