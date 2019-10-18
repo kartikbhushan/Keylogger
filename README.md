@@ -33,8 +33,6 @@ email_send = 'receiver_email'
 ```
 ## EXE file creation
 To create a .exe file you need to use the pyinstaller module 
-
-```pip install pyinstaller
-```
+```pip install pyinstaller```
 To use pyinstaller
 ```pyinstaller -w -F key.pyw```
